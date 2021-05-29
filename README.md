@@ -20,4 +20,4 @@ Data Sources provided to analyze and minipulate included the samples.json file a
 
 ## Results - Add all of the Deliverables to a Dashboard (http://127.0.0.1:5500/index.html)
 
-![alt text](https://github.com/austin020269/UFOs/blob/main/UFO_sightings_WP.PNG)
+![alt text](http://127.0.0.1:5500/index.html)
