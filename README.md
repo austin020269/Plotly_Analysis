@@ -15,7 +15,7 @@ Data Sources provided to analyze and minipulate included the samples.json file a
 ## Analysis and Workflow
 - Deliverable 1:  Create a Horizontal Bar Chart
 - Deliverable 2:  Create a Bubble Chart
-- Deliverable 3:  Create a Gauge Chart
+- Deliverable 3:  Create a Gauge Chart - Charts code here: https://github.com/austin020269/Plotly_Analysis/blob/main/README.md
 - Deliverable 4:  Customize the Dashboard
 
 ## Results
