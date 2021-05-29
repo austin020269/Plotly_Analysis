@@ -22,4 +22,5 @@ Data Sources provided to analyze and minipulate included the samples.json file a
 
 Add all of the Deliverables to a Dashboard (http://127.0.0.1:5500/index.html)
 
-![alt text](https://github.com/austin020269/Plotly_Analysis/blob/main/Bacteria_Bellyhole_WB_1.PNG)![alt text](https://github.com/austin020269/Plotly_Analysis/blob/main/Bacteria_Bellyhole_WB_2.PNG)
+![alt text](https://github.com/austin020269/Plotly_Analysis/blob/main/Bacteria_Bellyhole_WB_1.PNG)
+[alt text](https://github.com/austin020269/Plotly_Analysis/blob/main/Bacteria_Bellyhole_WB_2.PNG)
