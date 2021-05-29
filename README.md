@@ -1,5 +1,5 @@
 # Plotly_Analysis
-UT Module 12 Challenge
+UT Data Analytics Bpptcamp Module 12
 
 ## Project Overview
 Create a bellybutton diversity dashboard to identify 10 bacterial species in the bellybuttons of volunteers.  This dashboard will have a dropdown menu to show the details of the volunteer, a barchart showing the bacterial cultures found in their naval, a guage chart showing their washing frequency and a bubble chart of the bacterial cultures found in each sample. 
