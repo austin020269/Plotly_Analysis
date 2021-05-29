@@ -17,3 +17,7 @@ Data Sources provided to analyze and minipulate included the samples.json file a
 - Deliverable 2: Create a Bubble Chart
 - Deliverable 3: Create a Gauge Chart
 - Deliverable 4: Customize the Dashboard
+
+## Results - Add all of the Deliverables to a Dashboard
+
+![alt text](https://github.com/austin020269/UFOs/blob/main/UFO_sightings_WP.PNG)
