@@ -5,7 +5,7 @@ UT Data Analytics Bootcamp Module 12
 Create a bellybutton diversity dashboard to identify 10 bacterial species in the bellybuttons of volunteers.  This dashboard will have a dropdown menu to show the details of the volunteer, a barchart showing the the amount of bacterial cultures found in their naval, a guage chart showing their washing frequency and a bubble chart of the bacterial cultures found in each sample. 
 
 ## Resources
-Data Sources provided to analyze and minipulate included the samples.json file as well as utilizing the following software and applications:
+Data and other sources necessary to analyze and minipulate information included the samples.json file as well as utilizing the following software and applications:
 - JavaScript
 - HTML
 - CSS
